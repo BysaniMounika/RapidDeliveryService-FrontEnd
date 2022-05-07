@@ -1,0 +1,167 @@
+.navbar {
+    background-color: #008FCC;
+}
+
+.logo {
+    color: white;
+    font-family: "Broadway", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+}
+
+.logo2 {
+    color: white;
+    font-family: "Bauhaus 93", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.vertical-center {
+    margin: 0;
+    display: inline;
+}
+
+.login-box {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 400px;
+    margin-left:-200px;/* half width*/
+    margin-top:-150px;/* half height*/
+    background-color: rgba(255, 255, 255, 1);
+    box-sizing: border-box;
+    border-width: 3px;
+    border-style: solid;
+    border-color: rgba(30, 152, 215, 1);
+    border-radius: 0px;
+}
+
+.login-box-1 {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    color: rgba(30, 152, 215, 1);
+}
+
+.heading {
+    color: #008FCC;
+    font-family: "Impact", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.theme-color {
+    color: #008FCC;
+}
+
+.theme-text, option {
+    font-family: "Poppins", sans-serif !important;
+    font-size: 15px !important;
+    /* padding: 0PX !important; */
+}
+
+input, select, .form-select {
+    height: 25px;
+    color: rgba(30, 152, 215, 1) !important;
+    font-family: "Poppins", sans-serif !important;
+    font-size: 15px !important;
+    border-style: solid;
+    border-color: rgba(30, 152, 215, 1) !important;
+    border-radius: 0px !important;
+}
+
+.form-select {
+    padding: 0px !important;
+}
+
+.btn-theme {
+    background-color: #008FCC;
+    color: white;
+    height: 40px;
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+    border-radius: 2px !important;
+    border-color: #008FCC;
+}
+
+.user-name {
+    font-size: 20px !important;
+    color: white !important;
+    font-family: "Poppins", sans-serif !important;
+}
+
+#nav-dropdown {
+    color: white !important;
+}
+/* .btn-theme :hover, .btn-theme:focus, .btn-theme:active {
+    background-color: white !important;
+    color: #008FCC !important;
+} */
+
+.theme-border {
+    border-style: solid !important;
+    border-width: 1px !important;
+    border-color: #008FCC !important;
+}
+
+.dropdown-menu {
+    border: 1px solid #008FCC !important;
+}
+
+.dropdown-divider {
+    border-top: 1px solid #008FCC !important;
+}
+
+.left {
+    float: left;
+}
+
+.page-heading {
+    font-family: "Poppins Bold", "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 32px;
+    color: #008FCC;
+}
+
+.custom-box {
+    font-family: "Poppins Bold", "Poppins", sans-serif;
+    color: #008FCC;
+    border: 2px solid #008FCC;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 50px 0px;
+}
+
+.box-heading {
+    font-family: "Poppins Bold", "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 20px;
+    color: #008FCC;
+}
+
+.nav-pills .nav-link {
+    background: #008FCC;
+    color: white;
+    border: 1px solid #008FCC;
+    border-radius: 5px;
+    font-family: "Poppins Bold", "Poppins Regular", "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: #008FCC;
+    background-color: white;
+    border: 1px solid #008FCC;
+}
+
+.nopadding {
+    padding: 0 !important;
+}
